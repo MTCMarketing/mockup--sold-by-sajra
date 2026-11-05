@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksold_by_sajra=self.webpackChunksold_by_sajra||[]).push([[666],{9954:function(a,e,s){s.r(e),s.d(e,{Head:function(){return n}});var u=s(2560);e.default=u.default;const n=u.Head}}]);
+//# sourceMappingURL=component---src-pages-properties-[slug]-tsx-90fa01041ba266f0de84.js.map
